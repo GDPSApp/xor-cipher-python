@@ -2,6 +2,10 @@
 
 <!-- changelogging: start -->
 
+## [5.0.2](https://github.com/GDPSApp/xor-cipher-python/tree/v5.0.2) (2025-06-13)
+
+No significant changes.
+
 ## [5.0.1](https://github.com/GDPSApp/xor-cipher-python/tree/v5.0.1) (2024-12-24)
 
 ### Removals
