@@ -6,7 +6,7 @@ __url__ = "https://github.com/GDPSApp/xor-cipher-python"
 __title__ = "xor_cipher"
 __author__ = "GDPS App"
 __license__ = "MIT"
-__version__ = "5.0.0"
+__version__ = "5.0.2"
 
 from xor_cipher.python import cyclic_xor, cyclic_xor_in_place, xor, xor_in_place
 
