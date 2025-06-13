@@ -2,7 +2,7 @@
 
 <!-- changelogging: start -->
 
-## [5.0.1](https://github.com/xor-cipher/xor-cipher/tree/v5.0.1) (2024-12-24)
+## [5.0.1](https://github.com/GDPSApp/xor-cipher-python/tree/v5.0.1) (2024-12-24)
 
 ### Removals
 
@@ -12,15 +12,15 @@
 
 - Removed `xor-cipher.org`.
 
-## [5.0.0](https://github.com/xor-cipher/xor-cipher/tree/v5.0.0) (2024-06-26)
+## [5.0.0](https://github.com/GDPSApp/xor-cipher-python/tree/v5.0.0) (2024-06-26)
 
 ### Changes
 
-- The core was rewritten in Rust. ([#55](https://github.com/xor-cipher/xor-cipher/pull/55))
+- The core was rewritten in Rust. ([#55](https://github.com/GDPSApp/xor-cipher-python/pull/55))
 
 ### Removals
 
-- Removed `unsafe` functions. ([#55](https://github.com/xor-cipher/xor-cipher/pull/55))
+- Removed `unsafe` functions. ([#55](https://github.com/GDPSApp/xor-cipher-python/pull/55))
 
 ## 4.0.0 (2024-03-04)
 

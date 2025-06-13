@@ -1,10 +1,10 @@
 """Simple, reusable and optimized XOR ciphers in Python."""
 
 __description__ = "Simple, reusable and optimized XOR ciphers in Python."
-__url__ = "https://github.com/xor-cipher/xor-cipher"
+__url__ = "https://github.com/GDPSApp/xor-cipher-python"
 
 __title__ = "xor_cipher"
-__author__ = "nekitdev, RealistikDash"
+__author__ = "GDPS App"
 __license__ = "MIT"
 __version__ = "5.0.0"
 

@@ -7,7 +7,7 @@ Thank you for taking the time to responsibly disclose any problems you find.
 **Do not file public issues as they are open for everyone to see!**
 
 All security vulnerabilities in `xor-cipher` should be reported by email
-to [security@nekit.dev][Security Email].
+to [security@gdps.app][Security Email].
 Your report will be acknowledged within 24 hours, and you will receive a more
 detailed response within 48 hours indicating the next steps in handling your report.
 
@@ -106,7 +106,7 @@ pbmAGLbBB2TBok4=
 
 This Security Policy is adapted from [Rust's Security Policy][Rust Security Policy].
 
-[Security Email]: mailto:security@nekit.dev
-[Security Key]: https://nekit.dev/keys/security
+[Security Email]: mailto:security@gdps.app
+[Security Key]: https://gdps.app/static/keys/security.key
 [MIT Key Server]: https://pgp.mit.edu/pks/lookup?op=index&search=0x6AF9DDF87B37BBE6E83F5DF2B8F5B86F98F12F5E
 [Rust Security Policy]: https://rust-lang.org/policies/security

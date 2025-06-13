@@ -17,7 +17,7 @@ It has been optimized to breeze through datasets of any size.
 
 ## Installing
 
-**Python 3.8 or above is required.**
+**Python 3.9 or above is required.**
 
 ### `pip`
 
@@ -30,14 +30,14 @@ $ pip install xor-cipher
 Alternatively, the library can be installed from source:
 
 ```console
-$ pip install git+https://github.com/xor-cipher/xor-cipher.git
+$ pip install git+https://github.com/GDPSApp/xor-cipher-python.git
 ```
 
 Or via cloning the repository:
 
 ```console
-$ git clone https://github.com/xor-cipher/xor-cipher.git
-$ cd xor-cipher
+$ git clone https://github.com/GDPSApp/xor-cipher-python.git
+$ cd xor-cipher-python
 $ pip install .
 ```
 
@@ -108,26 +108,26 @@ If you are interested in contributing to `xor-cipher`, make sure to take a look 
 
 `xor-cipher` is licensed under the MIT License terms. See [License][License] for details.
 
-[Email]: mailto:support@nekit.dev
+[Email]: mailto:dev@gdps.app
 
-[Actions]: https://github.com/xor-cipher/xor-cipher/actions
+[Actions]: https://github.com/GDPSApp/xor-cipher-python/actions
 
-[Changelog]: https://github.com/xor-cipher/xor-cipher/blob/main/CHANGELOG.md
-[Code of Conduct]: https://github.com/xor-cipher/xor-cipher/blob/main/CODE_OF_CONDUCT.md
-[Contributing Guide]: https://github.com/xor-cipher/xor-cipher/blob/main/CONTRIBUTING.md
-[Security]: https://github.com/xor-cipher/xor-cipher/blob/main/SECURITY.md
+[Changelog]: https://github.com/GDPSApp/xor-cipher-python/blob/main/CHANGELOG.md
+[Code of Conduct]: https://github.com/GDPSApp/xor-cipher-python/blob/main/CODE_OF_CONDUCT.md
+[Contributing Guide]: https://github.com/GDPSApp/xor-cipher-python/blob/main/CONTRIBUTING.md
+[Security]: https://github.com/GDPSApp/xor-cipher-python/blob/main/SECURITY.md
 
-[License]: https://github.com/xor-cipher/xor-cipher/blob/main/LICENSE
+[License]: https://github.com/GDPSApp/xor-cipher-python/blob/main/LICENSE
 
 [Package]: https://pypi.org/project/xor-cipher
-[Coverage]: https://codecov.io/gh/xor-cipher/xor-cipher
+[Coverage]: https://codecov.io/gh/GDPSApp/xor-cipher-python
 [Documentation]: https://xor-cipher.github.io/xor-cipher
 
 [License Badge]: https://img.shields.io/pypi/l/xor-cipher
 [Version Badge]: https://img.shields.io/pypi/v/xor-cipher
 [Downloads Badge]: https://img.shields.io/pypi/dm/xor-cipher
 
-[Documentation Badge]: https://github.com/xor-cipher/xor-cipher/workflows/docs/badge.svg
-[Check Badge]: https://github.com/xor-cipher/xor-cipher/workflows/check/badge.svg
-[Test Badge]: https://github.com/xor-cipher/xor-cipher/workflows/test/badge.svg
-[Coverage Badge]: https://codecov.io/gh/xor-cipher/xor-cipher/branch/main/graph/badge.svg
+[Documentation Badge]: https://github.com/GDPSApp/xor-cipher-python/workflows/docs/badge.svg
+[Check Badge]: https://github.com/GDPSApp/xor-cipher-python/workflows/check/badge.svg
+[Test Badge]: https://github.com/GDPSApp/xor-cipher-python/workflows/test/badge.svg
+[Coverage Badge]: https://codecov.io/gh/GDPSApp/xor-cipher-python/branch/main/graph/badge.svg

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "xor-cipher"
-version = "5.0.1"
+version = "5.0.2"
 description = "Simple, reusable and optimized XOR ciphers in Python."
 readme = "README.md"
 requires-python = ">= 3.9"
@@ -27,32 +27,32 @@ classifiers = [
     "Typing :: Typed",
 ]
 
-dependencies = ["xor-cipher-core >= 1.1.2"]
+dependencies = ["xor-cipher-core >= 1.2.0"]
 
 [project.urls]
-Homepage = "https://github.com/xor-cipher/xor-cipher"
-Documentation = "https://xor-cipher.github.io/xor-cipher"
-Issues = "https://github.com/xor-cipher/xor-cipher/issues"
-Repository = "https://github.com/xor-cipher/xor-cipher"
+Homepage = "https://github.com/GDPSApp/xor-cipher-python"
+Documentation = "https://xor-cipher.gdps.app/"
+Issues = "https://github.com/GDPSApp/xor-cipher-python/issues"
+Repository = "https://github.com/GDPSApp/xor-cipher-python"
 
 [[project.authors]]
-name = "nekitdev"
-email = "nekit@nekit.dev"
+name = "GDPS App"
+email = "hello@gdps.app"
 
 [tool.uv]
 dev-dependencies = [
     # checks
-    "ruff >= 0.8.4",
-    "mypy >= 1.14.0",
+    "ruff >= 0.11.13",
+    "mypy >= 1.16.0",
     # tests
-    "coverage >= 7.6.9",
-    "pytest >= 8.3.4",
-    "pytest-cov >= 6.0.0",
-    "hypothesis >= 6.123.1",
+    "coverage >= 7.9.0",
+    "pytest >= 8.4.0",
+    "pytest-cov >= 6.2.1",
+    "hypothesis >= 6.135.9",
     # docs
     "mkdocs >= 1.6.1",
-    "mkdocs-material >= 9.5.49",
-    "mkdocstrings[python] >= 0.27.0",
+    "mkdocs-material >= 9.6.14",
+    "mkdocstrings[python] >= 0.29.1",
     # changelogs
     "changelogging >= 2.7.0",
 ]
@@ -94,8 +94,8 @@ testpaths = ["tests"]
 
 [tool.changelogging.context]
 name = "xor-cipher"
-version = "5.0.1"
-url = "https://github.com/xor-cipher/xor-cipher"
+version = "5.0.2"
+url = "https://github.com/GDPSApp/xor-cipher-python"
 
 [tool.changelogging.formats]
 title = "[{{version}}]({{url}}/tree/v{{version}}) ({{date}})"
